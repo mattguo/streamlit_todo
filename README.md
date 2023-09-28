@@ -2,8 +2,14 @@
 
 ```
 pip install streamlit
+```
 
+Then either check out this repo and then run
+```
 streamlit run todo.py
 ```
 
-And then play this tiny Todo items App with 50 lines of code
+or just run without checking out the repo
+```
+streamlit run https://raw.githubusercontent.com/mattguo/streamlit_todo/main/todo.py
+```
